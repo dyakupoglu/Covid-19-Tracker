@@ -1,0 +1,38 @@
+/*@media (max-width: 990px) {
+    .app {
+      flex-direction: column;
+    }
+  }
+*/
+.table {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    overflow-y: scroll;
+    height: 400px;
+    color: #6a5d5d;
+    background-color: white;
+}
+
+.table td {
+    padding: 0.5rem;
+    border: none;
+}
+
+.table tr {
+    display: flex;
+    justify-content: space-between;
+}
+
+.table tr:nth-of-type(odd) {
+    background-color: #f3f2f8;
+}
+
+.table_flagContainer {
+    display: flex;
+}
+
+.table_flag {
+    width: 50px;
+    padding: 0.2rem 0rem;
+}

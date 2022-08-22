@@ -1,0 +1,32 @@
+@media (max-width: 400px) {
+    .infoBox_cases {
+        font-size: 1.3rem !important;
+    }
+}
+
+.infoBox {
+    flex: 1;
+    cursor: pointer;
+}
+
+.infoBox-selected {
+    border-top: 10px solid #adff2f;
+}
+
+.infoBox:not(:last-child) {
+    margin-right: 15px;
+}
+
+.infoBox_cases {
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    font-size: 1.75rem;
+    color: #cc1034;
+}
+
+.infoBox_total {
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: 0.8rem;
+    color: #6c757d;
+}
