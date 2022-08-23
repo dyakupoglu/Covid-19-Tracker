@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-You can check worldwide or each country covid-19 status with Covid-19-Tracker application. You can interact with the map or select the status type; Cases, Recovered, and Deaths, as well as can see the numbers of cases in order from largest to smallest for each country. I developed this application using React.js, React-Leaflet, React-Chart.js, and Material-UI. If you want to examine data that I used to develop Covid-19-Tracker, here is the website https://disease.sh.
+You can check worldwide or each country covid-19 status with [Covid-19-Tracker](https://covid-19-tracker-26330.web.app/) application. You can interact with the map or select the status type; Cases, Recovered, and Deaths, as well as can see the numbers of cases in order from largest to smallest for each country. I developed this application using React.js, React-Leaflet, React-Chart.js, and Material-UI. If you want to examine data that I used to develop Covid-19-Tracker, here is the website https://disease.sh.
 
 ### Project Images
 
